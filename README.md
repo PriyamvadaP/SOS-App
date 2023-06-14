@@ -24,8 +24,10 @@ sending the last known coordinates of the user.
 
 The screenshots depicts the working of the SOS app in the User’s phone ,shows the
 warning message and the coordinates of the User in the Emergency contact’s phone.
-![Home Page](https://github.com/PriyamvadaP/SOS-App/assets/84617427/185aaad5-0040-4e17-84d8-c9c1a0cd90c9)![App permissions](https://github.com/PriyamvadaP/SOS-App/assets/84617427/6a5db9ab-d1bf-41c6-9962-4ffb96915171)
-![Add emergency contacts](https://github.com/PriyamvadaP/SOS-App/assets/84617427/98019410-4595-421f-8d63-578a638c845a)
-![SOS message send to emergency contact](https://github.com/PriyamvadaP/SOS-App/assets/84617427/7301985a-2597-4280-9fd8-d5d4d66fa718)
-![Live location](https://github.com/PriyamvadaP/SOS-App/assets/84617427/057895a6-b275-43bc-a691-6a5891d18cf9)
 
+
+<img src="https://github.com/PriyamvadaP/SOS-App/assets/84617427/185aaad5-0040-4e17-84d8-c9c1a0cd90c9" width="180" alt="Home Page" />
+<img src="https://github.com/PriyamvadaP/SOS-App/assets/84617427/6a5db9ab-d1bf-41c6-9962-4ffb96915171" width="200" alt="App permissions" />
+<img src="https://github.com/PriyamvadaP/SOS-App/assets/84617427/98019410-4595-421f-8d63-578a638c845a" width="200" alt="Add emergency contacts" />
+<img src="https://github.com/PriyamvadaP/SOS-App/assets/84617427/7301985a-2597-4280-9fd8-d5d4d66fa718" width="200" alt="SOS message send to emergency contact" />
+<img src="https://github.com/PriyamvadaP/SOS-App/assets/84617427/057895a6-b275-43bc-a691-6a5891d18cf9" width="200" alt="Live location" />
