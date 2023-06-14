@@ -31,3 +31,17 @@ warning message and the coordinates of the User in the Emergency contact’s pho
 <img src="https://github.com/PriyamvadaP/SOS-App/assets/84617427/98019410-4595-421f-8d63-578a638c845a" width="200" alt="Add emergency contacts" />
 <img src="https://github.com/PriyamvadaP/SOS-App/assets/84617427/7301985a-2597-4280-9fd8-d5d4d66fa718" width="200" alt="SOS message send to emergency contact" />
 <img src="https://github.com/PriyamvadaP/SOS-App/assets/84617427/057895a6-b275-43bc-a691-6a5891d18cf9" width="200" alt="Live location" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bibliography: GFG
