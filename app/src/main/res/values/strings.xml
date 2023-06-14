@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sos</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+</resources>
